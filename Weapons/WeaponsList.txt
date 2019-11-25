@@ -4,3 +4,4 @@ Pistol
 AK47
 Sniper
 RPG Launcher
+Proximity Mine
