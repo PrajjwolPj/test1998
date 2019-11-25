@@ -3,3 +3,9 @@ Dog
 Lion
 Tiger
 Leopard
+
+//add a new animal
+Elephant
+New Animal
+
+//new lines of code
