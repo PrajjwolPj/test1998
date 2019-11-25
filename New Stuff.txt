@@ -9,3 +9,10 @@ Elephant
 New Animal
 
 //new lines of code
+
+//new more animals
+
+sea lion
+cow
+ant
+Bee
